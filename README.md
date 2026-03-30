@@ -58,11 +58,13 @@ Value-added services (Tech Support, Online Security) reduce churn
 
     train.csv – Training dataset
     
+    playground-series-s6e3.zip - Input
+    
     test.csv – Test dataset
     
     submission.csv – Final predictions
     
-    notebook.ipynb – Full pipeline (EDA → Model → Evaluation)
+    Churn_prediction.ipynb – Full pipeline (EDA → Model → Evaluation)
 
 
 🔗 Links
